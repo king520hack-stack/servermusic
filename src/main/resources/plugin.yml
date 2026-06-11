@@ -1,0 +1,21 @@
+name: AurunMusic
+version: '1.0.0'
+main: com.aurunmusic.AurunMusicPlugin
+api-version: '1.21'
+description: "Plugin de gerenciamento de músicas autorais com suporte a Geyser."
+authors: [ AurunTeam ]
+website: "https://aurunmusic.com"
+
+commands:
+  armusic:
+    description: "Comando principal do AurunMusic."
+    usage: "/armusic <menu|stop|start <musica|random>>"
+    aliases: [ arm, music ]
+
+permissions:
+  aurunmusic.use:
+    description: "Permite usar os comandos e o menu do AurunMusic."
+    default: true
+  aurunmusic.admin:
+    description: "Permissões administrativas do AurunMusic."
+    default: op

@@ -1,0 +1,30 @@
+{
+  "aurun.menu.title": "♪ AurunMusic",
+
+  "aurun.menu.random.name": "Tilfeldig modus",
+  "aurun.menu.random.lore1": "Spiller sanger i tilfeldig rekkefølge",
+  "aurun.menu.random.lore2": "▶ Klikk for å aktivere",
+
+  "aurun.menu.stop.name": "Stopp musikk",
+  "aurun.menu.stop.lore1": "Stopper avspillingen og deaktiverer tilfeldig modus.",
+  "aurun.menu.stop.lore2": "Minecrafts innebygde musikk vil returnere.",
+
+  "aurun.menu.track.lore1": "▶ Klikk for å spille av",
+
+  "aurun.music.caverna": "A Caverna Profunda",
+  "aurun.music.nether": "Salto Quântico no Nether",
+  "aurun.music.mar": "Aurun MC no Mar Profundo",
+  "aurun.music.world_normal": "Aurun World (Versjon Normal)",
+  "aurun.music.world_party": "Aurun World (Versjon Party)",
+  "aurun.music.jardim": "Jardim Pálido Flow",
+  "aurun.music.meu_server": "Meu Server Aurun MC World",
+  "aurun.music.mundo_aurun": "O Mundo do Aurun",
+
+  "aurun.cmd.usage": "Bruk: /armusic <menu|stop|start <sang|random>>",
+  "aurun.cmd.player_only": "Denne kommandoen kan bare brukes av spillere.",
+  "aurun.cmd.no_permission": "Du har ikke tillatelse til å bruke denne kommandoen.",
+  "aurun.cmd.stop.success": "Musikk stoppet. Minecrafts musikk vil snart returnere.",
+  "aurun.cmd.random.start": "Tilfeldig modus aktivert! Nyt musikken.",
+  "aurun.cmd.track.playing": "Spiller nå: %s",
+  "aurun.cmd.track.not_found": "Sang ikke funnet. Bruk /armusic menu for å se katalogen."
+}

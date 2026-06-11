@@ -1,0 +1,30 @@
+{
+  "aurun.menu.title": "♪ AurunMusic",
+
+  "aurun.menu.random.name": "Shuffle Mode",
+  "aurun.menu.random.lore1": "Plays songs in random order",
+  "aurun.menu.random.lore2": "▶ Click to activate",
+
+  "aurun.menu.stop.name": "Stop Music",
+  "aurun.menu.stop.lore1": "Stops playback and disables shuffle mode.",
+  "aurun.menu.stop.lore2": "Minecraft's native music will return.",
+
+  "aurun.menu.track.lore1": "▶ Click to play",
+
+  "aurun.music.caverna": "A Caverna Profunda",
+  "aurun.music.nether": "Salto Quântico no Nether",
+  "aurun.music.mar": "Aurun MC no Mar Profundo",
+  "aurun.music.world_normal": "Aurun World (Versão Normal)",
+  "aurun.music.world_party": "Aurun World (Versão Party)",
+  "aurun.music.jardim": "Jardim Pálido Flow",
+  "aurun.music.meu_server": "Meu Server Aurun MC World",
+  "aurun.music.mundo_aurun": "O Mundo do Aurun",
+
+  "aurun.cmd.usage": "Usage: /armusic <menu|stop|start <song|random>>",
+  "aurun.cmd.player_only": "This command can only be used by players.",
+  "aurun.cmd.no_permission": "You don't have permission to use this command.",
+  "aurun.cmd.stop.success": "Music stopped. Minecraft music will return shortly.",
+  "aurun.cmd.random.start": "Shuffle Mode activated! Enjoy the music.",
+  "aurun.cmd.track.playing": "Now playing: %s",
+  "aurun.cmd.track.not_found": "Song not found. Use /armusic menu to see the catalog."
+}

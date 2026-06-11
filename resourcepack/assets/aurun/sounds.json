@@ -1,0 +1,66 @@
+{
+  "music.a_caverna_profunda": {
+    "sounds": [
+      {
+        "name": "aurun:music/a_caverna_profunda",
+        "stream": true
+      }
+    ]
+  },
+  "music.aurun_mc_-_salto_quntico_no_nether_001": {
+    "sounds": [
+      {
+        "name": "aurun:music/aurun_mc_-_salto_quntico_no_nether_001",
+        "stream": true
+      }
+    ]
+  },
+  "music.aurun_mc_no_mar_profundo_001": {
+    "sounds": [
+      {
+        "name": "aurun:music/aurun_mc_no_mar_profundo_001",
+        "stream": true
+      }
+    ]
+  },
+  "music.aurun_world_001": {
+    "sounds": [
+      {
+        "name": "aurun:music/aurun_world_001",
+        "stream": true
+      }
+    ]
+  },
+  "music.aurun_world_002": {
+    "sounds": [
+      {
+        "name": "aurun:music/aurun_world_002",
+        "stream": true
+      }
+    ]
+  },
+  "music.aurunmc_-_jardim_plido_flow_-_escolha": {
+    "sounds": [
+      {
+        "name": "aurun:music/aurunmc_-_jardim_plido_flow_-_escolha",
+        "stream": true
+      }
+    ]
+  },
+  "music.meu_server_aurun_mc_world_-_escolhida": {
+    "sounds": [
+      {
+        "name": "aurun:music/meu_server_aurun_mc_world_-_escolhida",
+        "stream": true
+      }
+    ]
+  },
+  "music.o_mundo_do_aurun_": {
+    "sounds": [
+      {
+        "name": "aurun:music/o_mundo_do_aurun_",
+        "stream": true
+      }
+    ]
+  }
+}

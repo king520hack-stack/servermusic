@@ -1,0 +1,30 @@
+{
+  "aurun.menu.title": "♪ AurunMusic",
+
+  "aurun.menu.random.name": "Modo Aleatorio",
+  "aurun.menu.random.lore1": "Reproduce canciones en orden aleatorio",
+  "aurun.menu.random.lore2": "▶ Clic para activar",
+
+  "aurun.menu.stop.name": "Detener Música",
+  "aurun.menu.stop.lore1": "Detiene la reproducción y desactiva el modo aleatorio.",
+  "aurun.menu.stop.lore2": "La música nativa de Minecraft regresará.",
+
+  "aurun.menu.track.lore1": "▶ Clic para reproducir",
+
+  "aurun.music.caverna": "A Caverna Profunda",
+  "aurun.music.nether": "Salto Quântico no Nether",
+  "aurun.music.mar": "Aurun MC no Mar Profundo",
+  "aurun.music.world_normal": "Aurun World (Versión Normal)",
+  "aurun.music.world_party": "Aurun World (Versión Party)",
+  "aurun.music.jardim": "Jardim Pálido Flow",
+  "aurun.music.meu_server": "Meu Server Aurun MC World",
+  "aurun.music.mundo_aurun": "O Mundo do Aurun",
+
+  "aurun.cmd.usage": "Uso: /armusic <menu|stop|start <cancion|random>>",
+  "aurun.cmd.player_only": "Este comando solo puede ser usado por jugadores.",
+  "aurun.cmd.no_permission": "No tienes permiso para usar este comando.",
+  "aurun.cmd.stop.success": "Música detenida. La música de Minecraft regresará pronto.",
+  "aurun.cmd.random.start": "¡Modo Aleatorio activado! Disfruta de la música.",
+  "aurun.cmd.track.playing": "Reproduciendo: %s",
+  "aurun.cmd.track.not_found": "Canción no encontrada. Usa /armusic menu para ver el catálogo."
+}
