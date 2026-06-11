@@ -202,8 +202,9 @@ public class MusicManager {
         player.stopSound(SoundStop.named(Key.key("minecraft", "music.under_water")));
         player.stopSound(SoundStop.named(Key.key("minecraft", "music.menu")));
 
-        // Para o canal de records (músicas anteriores do catálogo aurun)
+        // Para o canal MASTER e RECORDS
         player.stopSound(SoundStop.source(net.kyori.adventure.sound.Sound.Source.RECORD));
+        player.stopSound(SoundStop.source(net.kyori.adventure.sound.Sound.Source.MASTER));
 
         // Para qualquer som aurun que possa estar tocando
         for (MusicTrack track : MusicTrack.values()) {
@@ -235,12 +236,12 @@ public class MusicManager {
 
         Sound sound = Sound.sound(
                 soundKey,
-                Sound.Source.RECORD,  // Categoria RECORDS → processamento 100% no cliente
-                1.0f,                 // Volume máximo
+                Sound.Source.MASTER,  // Categoria MASTER → Garantia que vai tocar se o som do jogo estiver ligado
+                1000f,                // Volume alto para garantir que ouçam
                 1.0f                  // Pitch normal (velocidade original)
         );
 
-        plugin.getLogger().info("[AurunMusic] Disparando pacote de som '" + soundKey.asString() + "' para " + player.getName() + " na categoria RECORD (Volume Máximo)");
+        plugin.getLogger().info("[AurunMusic] Disparando pacote de som '" + soundKey.asString() + "' para " + player.getName() + " na categoria MASTER (Volume 1000)");
         player.playSound(sound);
     }
 
