@@ -82,7 +82,7 @@ public class PlayerListener implements Listener {
         String packUrl = "https://king520hack-stack.github.io/servermusic/aurun_music.zip";
         
         // SHA-1 OBRIGATORIAMENTE EM LETRAS MINÚSCULAS! (Minecraft Client rejeita maiúsculas)
-        String packHash = "caa5cd7867a7e6968c5eeb46540b01a7c1fec257";
+        String packHash = "ff426f47eb434bcd4614763bd2d12898911bdfdb";
         
         // Prompt customizado avisando sobre a necessidade do pack
         net.kyori.adventure.text.Component prompt = net.kyori.adventure.text.Component.text(

@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 34,
+    "supported_formats": [1, 99],
     "description": "AurunMusic - Músicas autorais e traduções para o servidor."
   }
 }
